@@ -1,3 +1,6 @@
 This is my first git version control repository
 
 
+creating repostories
+addding new files to the repository
+commiting
